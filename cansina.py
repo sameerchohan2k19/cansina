@@ -53,8 +53,8 @@ except NameError:
 USER_AGENT = "Mozilla/5.0 (Windows; U; MSIE 10.0; Windows NT 9.0; en-EN)"
 THREADS = 4
 
-from core.printer import banner
-print(banner)
+#from core.printer import banner
+#print(banner)
 
 #
 #   Utility functions
